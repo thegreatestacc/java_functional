@@ -1,0 +1,11 @@
+com/sovliv/functional/consumer/ConsumerMain.class
+com/sovliv/functional/function_bifunction/FunctionMain.class
+com/sovliv/functional/predicate/MainPredicate.class
+com/sovliv/functional/model/Person$PersonBuilder.class
+com/sovliv/functional/model/Customer.class
+com/sovliv/functional/streams/StreamsMain.class
+com/sovliv/functional/enums/Gender.class
+com/sovliv/functional/model/Customer$CustomerBuilder.class
+com/sovliv/functional/model/Person.class
+com/sovliv/functional/App.class
+com/sovliv/functional/supplier/MainSupplier.class
