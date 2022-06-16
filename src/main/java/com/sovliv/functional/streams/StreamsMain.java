@@ -17,6 +17,8 @@ public class StreamsMain {
                 Person.builder().name("BUGAGA").gender(Gender.SOME_SHIT).build()
         );
 
+
+        //added some comments
         persons.stream()
                 .map(Person::getName)
                 .collect(Collectors.toSet())
